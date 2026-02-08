@@ -26,7 +26,7 @@ export default defineConfig({
 	clearScreen: false,
 	server: {
 		host: '0.0.0.0',
-		port: 24536,
+		port: 41111,
 		https: getHttpsConfig()
 	}
 });
