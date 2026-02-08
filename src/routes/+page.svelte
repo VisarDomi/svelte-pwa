@@ -29,7 +29,7 @@
 
 <style>
 	.list {
-		padding: 0;
+		padding-top: env(safe-area-inset-top);
 		margin: 0;
 	}
 
